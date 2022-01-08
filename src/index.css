@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.rectangle_shadow {
+    @apply pr-40 pb-50 pt-30    
+}
